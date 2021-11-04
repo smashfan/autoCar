@@ -1,0 +1,3 @@
+/home/cidi/Desktop/work/work/code/maintest/CMakeFiles/rebuild_cache.dir
+/home/cidi/Desktop/work/work/code/maintest/CMakeFiles/edit_cache.dir
+/home/cidi/Desktop/work/work/code/maintest/CMakeFiles/main.dir
